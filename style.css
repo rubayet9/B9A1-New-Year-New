@@ -1,3 +1,117 @@
-body{
+body {
     font-family: 'Open Sans', sans-serif;
+}
+
+.a {
+    background-image: url(resources/Banner\ Image.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: 100%;
+    background: linear-gradient:(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+}
+
+.a0 {
+    text-align: center;
+    padding: 177px 177px;
+    color: #fff;
+    font-family: Merriweather;
+}
+
+.a1 {
+    font-size: 32px;
+}
+
+#a2 {
+    font-weight: 900;
+    font-size: 72px;
+}
+
+.bb {
+    color: #F00;
+    text-align: center;
+    font-size: 88px;
+    font-weight: 700;
+}
+
+.bbb {
+    color: #F00;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.bbbb {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.bbb,
+.bbbb {
+    margin-bottom: 1%;
+    margin-top: 0%;
+}
+
+#b1 {
+    align-items: center;
+    margin: 70px 0px 399px 400px;
+}
+
+#c {
+    background-image: url(resources/Vectorrr.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover; /* Scale the background image to cover the entire container */
+      background-position: center; /* Center the background image */
+      height: 100vh; /* Set the height of the container; 100vh = 100% of the viewport height */
+      display: flex;
+      align-items: center;
+      justify-content: center
+    /* background-position: center;
+    font-size: 100%;
+    width: 1320px;
+    height: 600px;
+    background-position: 100%;
+    margin-left: 50px;
+    /* padding: 30px 30px 0px 150px; */
+    /* /* display: flex; */
+    align-items: en;
+    justify-content: space-between; */ */
+    
+}
+.c1{
+    padding-left: 170px;
+    background-image: url(resources/Group\ 70.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    
+}
+.c2 {
+    padding-top: 70px;
+    padding-bottom: 0px;
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    margin-bottom: 10px;
+
+}
+.c3{
+ color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+padding-left: 10px;
+padding-right: 700px;
+padding-top: 0px; */
+}
+a{
+color: #FFF;
+text-decoration: none;
+padding-top: 10px;
+margin-top: 8;
+padding-left: 10px;
 }
