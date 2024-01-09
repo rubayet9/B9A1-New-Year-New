@@ -255,5 +255,24 @@ a {
 .h{
     background-color: #070211;
     width: 1600px;
-    height: 609px;
+    height: 509px;
+    text-align: center;
+    padding-top: 200px;
+}
+.h0 ,.hh{
+    color: #FFF;
+    display: inline-table
+}
+.hh{
+    text-align: end;
+    justify-content: end;
+}
+h4{
+    justify-content: center;
+}
+.hhh{
+    text-align: center;
+    width: 375px
+height: 80px
+
 }
