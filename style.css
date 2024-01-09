@@ -73,7 +73,6 @@ body {
     background-repeat: no-repeat;
     height: 100vh;
     background-size: cover;
-    /* Scale the background image to cover the entire container */
     background-position: center;
     display: flex;
     align-items: center;
@@ -124,10 +123,6 @@ a {
     background: linear-gradient(rgb(249, 225, 225), hsla(0, 20%, 63%, 0));
     background-position: 100%;
     background-size: 1320px 482px 2416px 140px;
-    /* width: 1320px
-    height: 482px
-    top: 2416px
-    left: 140px */
     padding: 130px;
     border-radius: 20px;
     margin: 130px 0;
@@ -207,3 +202,54 @@ a {
     font-weight: 900;
 
 }
+
+.g {
+    background-color: rgba(255, 0, 0, 0.05);
+    height: 375px;
+    padding: 130px;
+    border-radius: 20px;
+    margin: 130px 0;
+    margin-left: 140px;
+    margin-right: 140px;
+    text-align: center;
+}
+
+.g1 {
+    width: 150px;
+    height: 150px;
+    padding-top: 0 auto;
+    
+}
+.g4 {
+    border: none;
+    border-radius: 50px 0px 0px 50px;
+    border-width: 25px;
+    width: 350px;
+    height: 72px;
+}
+
+.g5 {
+    margin-left: -35px;
+    border-radius: 0px;
+    border: none;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+}
+
+#g6 {
+    border: none;
+    font-size: 20px;
+    background: #FF0000;
+    border-radius: 0px 50px 50px 0px;
+    border-width: 25px;
+    width: 210px;
+    height: 72px;
+    margin-left: 0;
+    color: white;
+}
+.g4::placeholder {
+    padding: 10px;
+    margin-left: 200px;
+}
+
